@@ -8,5 +8,12 @@ Instacart is a North-American grocery delivery and pick-up service looking to im
 ## Data
 Opensource data from 2017 made available by Instacart [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 
-## Result
-Main questions this analysis is trying to answer is what indicators can be used to predict customer ordering behaviour with regards to time, location and types of products. Out of these time has the biggest impact as the majority of customers place their orders in the morning, with no particular regional differences in spending habits. 
+# Tools
+This project uses Excel and Python. Essentially, the following tools/libraries was employed in python
+- Anaconda 3
+- Jupyter Notebook
+- Pandas
+- Seaborn
+- Matplotlib
+- Scipy
+- Numpy
